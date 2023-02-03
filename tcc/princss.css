@@ -1,0 +1,92 @@
+#divBusca{
+    background-color:white;
+    border:solid 5%;
+    border:15px;
+    width:600px;
+    position: absolute;
+    border-color: #e9b44c;
+    height: 40px;
+    
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:40px;
+    width:583px;
+  }
+  .posi{
+      position: absolute;
+      top: 48PX;
+  }
+  .popuplog{
+    position: fixed;
+    top: 0; bottom: 0; 
+    left: 0; right:0;
+    margin: auto;
+    width: 350px;
+    height: 280px;
+    padding: 15px;
+    border: solid 4px black;
+    background: #E4D6A7;
+    display: none;
+  }
+  .buttonpopup{
+    background-color: #e9b44c;
+    border-color: #9B2915;
+    color: #9B2915;
+    height: 30px;
+    position: absolute;
+  }
+  .popupcad{
+    position: fixed;
+    top: 0; bottom: 0; 
+    left: 0; right:0;
+    margin: auto;
+    width: 350px;
+    height: 420px;
+    padding: 15px;
+    border: solid 4px black;
+    background: #E4D6A7;
+    display: none;
+    top: 100px;
+  }
+  .popupcad2{
+    position: fixed;
+    top: 0; bottom: 0; 
+    left: 0; right:0;
+    margin: auto;
+    width: 350px;
+    height: 570px;
+    padding: 15px;
+    border: solid 4px black;
+    background: #E4D6A7;
+    display: none;
+    top: 40px;
+  }
+  .inputo{
+    width: 93%; 
+    height: 90px;
+  }
+  .cont{
+    max-width: 700px;
+    width: 100%;
+
+    font-size: 20px;
+    position: absolute;
+    top: 290px;
+    right: 31%;
+}
+.buttonc{
+  background-color: #E9B44C;
+  height: 40px;
+  width: 15%;
+  color: #9B2915;
+  border-color: #9B2915;
+  font-size: 20px;
+  position: absolute;
+} 
